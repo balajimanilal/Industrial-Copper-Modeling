@@ -3,6 +3,7 @@
 The "Industrial Copper Modeling" notebook involves data analysis and predictive modeling on a dataset related to copper production and sales. The dataset includes various attributes such as quantity, customer information, country, status, item type, application, thickness, width, material reference, product reference, delivery date, and selling price.
 
 **Key Findings:**
+
 *Data Overview:*
 
 * The dataset consists of 181,673 entries with 14 columns.
